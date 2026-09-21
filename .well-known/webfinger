@@ -1,0 +1,9 @@
+{
+  "subject": "acct:auth0@poios.autos",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://dev-m8t1xxp0cpq138kv.us.auth0.com"
+    }
+  ]
+}
